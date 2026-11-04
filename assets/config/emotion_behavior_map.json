@@ -1,0 +1,12 @@
+{
+  "status": "DRAFT_PENDING_REVIEW",
+  "neutral_threshold": 0.5,
+  "entries": [
+    {"label": "anger", "pet_state": "calm", "meaning": "Memberi ruang, tidak ikut tegang", "chatbot_style": "tenang, beri ruang", "avoid": "ikut marah, animasi cepat", "rationale": "reactive empathy (draf)", "status": "DRAFT_PENDING_REVIEW"},
+    {"label": "sadness", "pet_state": "gentle", "meaning": "Menemani dengan lembut", "chatbot_style": "lembut, menemani", "avoid": "ceria memaksa", "rationale": "emotional validation (draf)", "status": "DRAFT_PENDING_REVIEW"},
+    {"label": "fear", "pet_state": "comforting", "meaning": "Rasa aman dan stabil", "chatbot_style": "stabil, menenangkan", "avoid": "gerak mengejutkan", "rationale": "active listening (draf)", "status": "DRAFT_PENDING_REVIEW"},
+    {"label": "happy", "pet_state": "cheerful", "meaning": "Ikut senang secukupnya", "chatbot_style": "ikut senang secukupnya", "avoid": "berlebihan", "rationale": "reactive empathy (draf)", "status": "DRAFT_PENDING_REVIEW"},
+    {"label": "love", "pet_state": "warm", "meaning": "Hangat dan menerima", "chatbot_style": "sambut hangat", "avoid": "mendorong ketergantungan", "rationale": "emotional validation (draf)", "status": "DRAFT_PENDING_REVIEW"},
+    {"label": "neutral", "pet_state": "normal", "meaning": "Hadir tanpa menuntut", "chatbot_style": "ramah, ajak bercerita", "avoid": "menebak emosi", "rationale": "aturan ambang (draf)", "status": "DRAFT_PENDING_REVIEW"}
+  ]
+}
